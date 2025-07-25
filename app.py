@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 
 # Load trained model
-model = joblib.load("fraud_model.pkl")
+model = joblib.load("fraud_model_pipeline.pkl")
 
 # Title
 st.title("Credit Card Fraud Detection")
