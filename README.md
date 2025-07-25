@@ -88,4 +88,33 @@ We followed these steps:
 
 
 
+---
+
+## 📌 Dataset Source
+
+[Kaggle: Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfra)
+
+---
+
+## 📷 Screenshots
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+## 🧪 How to Run
+
+```bash
+# Clone the repo
+git clone https://github.com/yourusername/creditcard-fraud-detection.git
+cd creditcard-fraud-detection
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Launch Streamlit app
+streamlit run app.py
+
+
+
 
