@@ -98,7 +98,7 @@ We followed these steps:
 
 ## 📷 Screenshots
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/f1.png)
 
 ---
 
