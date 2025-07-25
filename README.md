@@ -106,8 +106,8 @@ We followed these steps:
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/creditcard-fraud-detection.git
-cd creditcard-fraud-detection
+git clone https://github.com/Kali-AI02/DTP_Data_Duo_project.git
+cd DTP_Data_Duo_project
 
 # Install dependencies
 pip install -r requirements.txt
