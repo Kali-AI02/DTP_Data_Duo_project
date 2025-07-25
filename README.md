@@ -96,8 +96,6 @@ We followed these steps:
 
 ---
 
-
-
 ---
 
 ## 🧪 How to Run
