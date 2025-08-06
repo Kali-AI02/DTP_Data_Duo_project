@@ -98,7 +98,7 @@ We followed these steps:
 
 ## 📌 streamllit app
 
-[You can access the app here](https://ddddddtpdataduoproject-kduvqwuzrrt7rtmz8iyxgr.streamlit.app/)
+[Credit Card Fraud Detection app](https://ddddddtpdataduoproject-kduvqwuzrrt7rtmz8iyxgr.streamlit.app/)
 
 ---
 ---
