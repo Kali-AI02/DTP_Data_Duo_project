@@ -111,6 +111,8 @@ pip install -r requirements.txt
 # Launch Streamlit app
 streamlit run app.py
 
+you can access the app directly here
+https://ddddddtpdataduoproject-kduvqwuzrrt7rtmz8iyxgr.streamlit.app/ 
 
 
 
