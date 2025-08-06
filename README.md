@@ -96,9 +96,15 @@ We followed these steps:
 
 ---
 
+## 📌 streamllit app
+
+[You can access the app here](https://ddddddtpdataduoproject-kduvqwuzrrt7rtmz8iyxgr.streamlit.app/)
+
+---
 ---
 
 ## 🧪 How to Run
+
 
 ```bash
 # Clone the repo
@@ -112,7 +118,13 @@ pip install -r requirements.txt
 streamlit run app.py
 
 you can access the app directly here
-https://ddddddtpdataduoproject-kduvqwuzrrt7rtmz8iyxgr.streamlit.app/ 
+https://ddddddtpdataduoproject-kduvqwuzrrt7rtmz8iyxgr.streamlit.app/
+
+
+
+
+
+
 
 
 
